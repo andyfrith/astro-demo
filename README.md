@@ -12,7 +12,7 @@
   <h3 align="center">Astro UXDS Demo</h3>
 
   <p align="center">
-    This frontend application was created for the purpose of exploring and experimentation while becoming familiar with the Astro Space UX Design System.  Designed by Rocket Communications, this Design System serves to standardize rich space app experiences using established interaction pattens and best practices.  The demo application explores not only the Astro Space UXDS Design System, but also the use of Web Components in building applications using React.
+    This frontend application was created for the purpose of experimentation while becoming familiar with the Astro Space UX Design System.  Designed by Rocket Communications, this Design System serves to standardize rich space app experiences using established interaction pattens and best practices.  The demo application explores not only the Astro Space UXDS Design System, but also the use of Web Components in building applications using React.
   </p>
 </div>
 
